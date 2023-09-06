@@ -1,0 +1,15 @@
+<?php
+/**
+ * 1. Set rules
+ * - fieldname
+ * - Rules
+ * 
+ * 2. Thông báo
+ * - fieldname
+ * - errors
+ * 
+ * 3. Run validate()
+ * - true
+ * - false
+ * 
+ */
